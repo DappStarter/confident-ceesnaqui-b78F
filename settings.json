@@ -1,0 +1,10 @@
+{
+    "name": "my dapp 1",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/collection/core-entity": true
+    }
+}
